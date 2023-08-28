@@ -1,6 +1,6 @@
 # Flight_Fare_Prediction
-Table of Contents
-Introduction
+# Table of Contents
+- Introduction
 Dataset
 Project Structure
 Getting Started
